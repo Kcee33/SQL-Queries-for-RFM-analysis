@@ -34,9 +34,7 @@ The repository includes the following components:
 ### 4. **rfm_analysis_summary.sql**
    Provides a comprehensive summary of the RFM analysis, ranking customers based on their recency, frequency, and monetary values. This query helps to identify which customers need more attention and which ones are prime candidates for retention efforts.
 
-## Sample Data (Optional)
 
-To test and run the SQL queries, you can use the **sample_customer_data.csv** file provided. This file includes anonymized customer data such as customer IDs, purchase dates, and amounts, which are essential for running the queries in a real-world scenario.
 
 ## How to Use
 
